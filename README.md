@@ -1,1 +1,2 @@
-En este repositorio encontraran los archivos de soporte para el proyecto 2 de analitica
+# Proyecto_analitica2
+Códigos que soportan el proyecto de analítica numero 2.
